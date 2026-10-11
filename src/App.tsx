@@ -33,7 +33,7 @@ const App: React.FC = () => {
           <div id="nav-logo__lower">
             Supernova <span>9</span>
           </div>
-          <div id="nav-logo__sub">Thank Your Lucky Stars</div>
+          <div id="nav-logo__sub">Shoot for the Stars</div>
         </div>
       </header>
       {blurbCount && randomIndex > -1 ? (
@@ -51,7 +51,7 @@ const App: React.FC = () => {
             <footer>
               Stay tuned for this and many more{" "}
               <a href="https://sqsupernova.tumblr.com/">#SwanQueen</a> fics.
-              Reveals start Sept 9th!
+              Reveals start Oct 12th!
             </footer>
           </article>
           <div>
