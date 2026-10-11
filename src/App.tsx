@@ -31,7 +31,7 @@ const App: React.FC = () => {
         <div id="nav-logo">
           <div id="nav-logo__upper">Swan Queen</div>
           <div id="nav-logo__lower">
-            Supernova <span>9</span>
+            Supernova <span>11</span>
           </div>
           <div id="nav-logo__sub">Shoot for the Stars</div>
         </div>
