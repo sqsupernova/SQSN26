@@ -1,8 +1,8 @@
 {
-  "name": "supernova-24",
+  "name": "supernova-26",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://sqsupernova.github.io/SQSN24",
+  "homepage": "https://sqsupernova.github.io/SQSN26",
   "dependencies": {
     "@testing-library/jest-dom": "^6.5.0",
     "@testing-library/react": "^16.0.1",
